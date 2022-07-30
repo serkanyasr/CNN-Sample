@@ -1,0 +1,5 @@
+# CNN-Sample
+
+
+MNIST DATASET USED
+ 
